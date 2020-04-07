@@ -4,7 +4,7 @@ title: "COVID-19 | Estimated Cases"
 description: "An epidemiologist's thoughts on COVID-19"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/nnpok'
+baseurl: '/stats'
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
