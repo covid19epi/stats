@@ -77,12 +77,12 @@ comments: false
 		<p style="text-align: center;">Undergraduate<br>
 		<i>Public Health &amp; Molecular and Cell Biology</i></p>
 	</div> 
-<!-- 	<div class="col-md-5" style="padding: 30px;text-align: center;">
-		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/stephanie.png" alt="Stephanie Djajadi" width="220" height="223">
-		<h6 style="text-align: center;">Stephanie Djajadi</h6>
-		<p style="text-align: center;">Undergraduate<br>
-		<i>Computer Science</i></p>
-	</div>  -->
+	<div class="col-md-5" style="padding: 30px;text-align: center;">
+		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/yoshika.jpg" alt="Yoshika Crider" width="220" height="223">
+		<h6 style="text-align: center;">Yoshika Crider</h6>
+		<p style="text-align: center;">PhD Student<br>
+		<i>Energy & Resources Group</i></p>
+	</div> 
 </div> 
  
 
