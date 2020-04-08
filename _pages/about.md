@@ -38,7 +38,7 @@ comments: false
 <p>Please, see the full data source list <a href="https://github.com/jadebc/covid19-expected-cases/tree/master/1-data">here</a>.</p>
 <br>
 
-<h4>Team</h4>
+<h4>Data Science Team</h4>
 
 <p>We are an interdisciplinary team with expertise in epidemiology, biostatistics, data science, and computer science.</p>
 
@@ -84,6 +84,11 @@ comments: false
 		<i>Energy & Resources Group</i></p>
 	</div> 
 </div> 
+
+<h4>Co-authors</h4>
+<ul>
+	<li>co-author 1</li>
+</ul>
  
 
 <br>
@@ -111,6 +116,15 @@ comments: false
 
 <p>If you use our analysis, please cite us by ....</p>
 <a target="_blank" href="https://github.com/jadebc/covid19-expected-cases" class="btn btn-warning">View our code on Github</a>
+
+<br>
+<br>
+<br>
+
+<h5>Funded by</h5>
+<a target="_blank" href="https://theflulab.org/">
+	<img style="" src="{{ site.baseurl }}/assets/images/flu-lab.png" alt="Flu Lab" width="80" height="80">
+</a>
 
 </div> 
 </div> 
