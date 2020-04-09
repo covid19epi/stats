@@ -8,8 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Compared to other countries, the US has been experiencing a huge shortage in coronavirus test kits, resulting in case data that may not accurately represent the current state of the pandemic, which can lead to policy decisions that are misinformed. Given what we know about the virus from other countries that've done more widespread testing, we aimed to estimate the actual number of coronavirus cases in the US, given the testing restrictions.</p>
-
+<p>We are an interdisciplinary team with expertise in epidemiology, biostatistics, data science, and computer science at UC Berkeley.</p>
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 
 <!-- <h4 style="border-bottom: 1px solid rgba(0, 0, 0, .44);">Data Sources a</h4> -->
@@ -40,13 +39,11 @@ comments: false
 
 <h4>Data Science Team</h4>
 
-<p>We are an interdisciplinary team with expertise in epidemiology, biostatistics, data science, and computer science.</p>
-
 <div class="row">
 	<div class="col-md-5" style="padding: 30px;text-align: center;">
 		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/jade.jpg" alt="Jade Benjamin-Chung" width="220" height="223">
 		<h6 style="text-align: center;">Jade Benjamin-Chung</h6>
-		<p style="text-align: center;">Research Scientist<br>
+		<p style="text-align: center;">Epidemiologist<br>
 		<i>Epidemiology &amp; Biostatistics</i></p>
 	</div> 
 	<div class="col-md-5" style="padding: 30px;text-align: center;">
