@@ -38,7 +38,17 @@ post_class: post-template
                         <a target="_blank" href="{{ author.github }}" class="btn follow">Github</a>
                         <br>
                         <span class="author-description">{{ author.description }}</span>
+                        <br>
+                        <div>
+            <small style="font-style: italic; color: silver;">
+                <span class="post-date" style="font-style: italic;"><time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">Posted: {{ page.date | date_to_string }}</time></span>           
+                {% if page.last_modified_at %}
+                (Last Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                {% endif %}
+                </small>
+            </div>
                     </div>
+                    
                 </div>
                 {% endif %}
 
