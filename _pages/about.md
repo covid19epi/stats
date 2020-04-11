@@ -82,17 +82,26 @@ comments: false
 	</div> 
 </div> 
 
-<h4>Co-authors</h4>
-<ul>
-	<li>co-author 1</li>
-</ul>
+<h4>Authors</h4>
+	<span>Jade Benjamin-Chung,<sup>1</sup> Sean Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Yoshika Crider,<sup>1</sup> Michelle Hsiang,<sup>2,3,4</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Alan Hubbard <sup> 1</sup>
+	</span>
+
+
+	<p style="font-size: 0.75rem; color: rgba(0, 0, 0, .44)">
+		<br>
+		<sup>1</sup> Division of Epidemiology & Biostatistics, University of California Berkeley 
+		<sup>2</sup> Department of Pediatrics, University of Texas Southwestern Medical Center 
+		<sup>3</sup> Malaria Elimination Initiative, Global Health Group, University of California San Francisco
+		<sup>4</sup> Department of Pediatrics, University of California San Francisco
+	</p>
+
  
 
 <br>
-<h4>Questions or bug reports?</h4>
+<!-- <h4>Questions or bug reports?</h4>
 
 <p>Head over to our <a href="https://github.com/jadebc/covid19-expected-cases">Github repository</a> and file an issue!</p>
-
+ -->
 </div>
 
 <div class="col-md-4">
@@ -108,14 +117,12 @@ comments: false
 
 
 <br>
-<br>
-<h5>Using this data</h5>
+<h5>Citing this work</h5>
 
-<p>If you use our analysis, please cite us by ....</p>
+<p>Please credit this project by citing the publication, found here.</p>
 <a target="_blank" href="https://github.com/jadebc/covid19-expected-cases" class="btn btn-warning">View our code on Github</a>
+<p style="font-size: 0.75rem; color: rgba(0, 0, 0, .44); font-style: italic; margin-top: 6px;">This button will start working once our code is stable.</p>
 
-<br>
-<br>
 <br>
 
 <h5>Funded by</h5>
