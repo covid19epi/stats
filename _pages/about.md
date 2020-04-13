@@ -89,9 +89,9 @@ comments: false
 
 	<p style="font-size: 0.75rem; color: rgba(0, 0, 0, .44)">
 		<br>
-		<sup>1</sup> Division of Epidemiology & Biostatistics, University of California Berkeley 
-		<sup>2</sup> Department of Pediatrics, University of Texas Southwestern Medical Center 
-		<sup>3</sup> Malaria Elimination Initiative, Global Health Group, University of California San Francisco
+		<sup>1</sup> Division of Epidemiology & Biostatistics, University of California Berkeley <br>
+		<sup>2</sup> Department of Pediatrics, University of Texas Southwestern Medical Center <br>
+		<sup>3</sup> Malaria Elimination Initiative, Global Health Group, University of California San Francisco <br>
 		<sup>4</sup> Department of Pediatrics, University of California San Francisco
 	</p>
 

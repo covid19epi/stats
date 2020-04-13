@@ -5,57 +5,20 @@ title: Home
 
 {% if page.url == "/" %}
 
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Featured</span></h2>
-    </div>
-    <div class="row">
+<head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "0; url = https://covid19epi.github.io/stats/home/" />
+</head>
 
-    {% for post in site.posts %}
 
-        {% if post.featured == true %}
+<div class="text-center">
+    <br>
+    <br>
+    <br>
+<h3 style="top: 50%;"> Redirecting...</h3>
+</div>
 
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-</section>
 
 {% endif %}
 
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
-
-    </div>
-
-</section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
 
