@@ -37,53 +37,10 @@ comments: false
 <p>Please, see the full data source list <a href="https://github.com/jadebc/covid19-expected-cases/tree/master/1-data">here</a>.</p>
 <br>
 
-<h4>Data Science Team</h4>
 
-<div class="row">
-	<div class="col-md-5" style="padding: 30px;text-align: center;">
-		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/jade.jpg" alt="Jade Benjamin-Chung" width="220" height="223">
-		<h6 style="text-align: center;">Jade Benjamin-Chung</h6>
-		<p style="text-align: center;">Epidemiologist<br>
-		<i>Epidemiology &amp; Biostatistics</i></p>
-	</div> 
-	<div class="col-md-5" style="padding: 30px;text-align: center;">
-		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/nolan.png" alt="Nolan Pokpongkiat" width="220" height="223">
-		<h6 style="text-align: center;">Nolan Pokpongkiat</h6>
-		<p style="text-align: center;">Undergraduate<br>
-		<i>Computer Science</i></p>
-	</div> 
-</div>
-<div class="row">
-	<div class="col-md-5" style="padding: 30px;text-align: center;">
-		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/anna.jpg" alt="Anna Nguyen" width="220" height="223">
-		<h6 style="text-align: center;">Anna Nguyen</h6>
-		<p style="text-align: center;">Undergraduate<br>
-		<i>Public Health &amp; Data Science</i></p>
-	</div> 
-	<div class="col-md-5" style="padding: 30px;text-align: center;">
-		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/stephanie.png" alt="Stephanie Djajadi" width="220" height="223">
-		<h6 style="text-align: center;">Stephanie Djajadi</h6>
-		<p style="text-align: center;">Undergraduate<br>
-		<i>Computer Science</i></p>
-	</div> 
-</div> 
-<div class="row">
-	<div class="col-md-5" style="padding: 30px;text-align: center;">
-		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/anmol.jpg" alt="Anmol Seth" width="220" height="223">
-		<h6 style="text-align: center;">Anmol Seth</h6>
-		<p style="text-align: center;">Undergraduate<br>
-		<i>Public Health &amp; Molecular and Cell Biology</i></p>
-	</div> 
-	<div class="col-md-5" style="padding: 30px;text-align: center;">
-		<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom:20px;" src="{{ site.baseurl }}/assets/images/yoshika.jpg" alt="Yoshika Crider" width="220" height="223">
-		<h6 style="text-align: center;">Yoshika Crider</h6>
-		<p style="text-align: center;">PhD Student<br>
-		<i>Energy & Resources Group</i></p>
-	</div> 
-</div> 
 
 <h4>Authors</h4>
-	<span>Jade Benjamin-Chung,<sup>1</sup> Sean Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Yoshika Crider,<sup>1</sup> Michelle Hsiang,<sup>2,3,4</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Alan Hubbard <sup> 1</sup>
+	<span>Jade Benjamin-Chung,<sup>1</sup> Sean Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Anmole Seth,<sup>1</sup> Yoshika Crider,<sup>1</sup>, Andrew Mertens,<sup>1</sup> Michelle Hsiang,<sup>2,3,4</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Alan Hubbard <sup> 1</sup>
 	</span>
 
 
