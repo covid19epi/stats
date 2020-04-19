@@ -8,7 +8,6 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>We are an interdisciplinary team with expertise in epidemiology, biostatistics, data science, and computer science at UC Berkeley.</p>
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 
 <!-- <h4 style="border-bottom: 1px solid rgba(0, 0, 0, .44);">Data Sources a</h4> -->
@@ -40,6 +39,10 @@ comments: false
 
 
 <h4>Authors</h4>
+
+
+<p>We are an interdisciplinary team with expertise in epidemiology, biostatistics, data science, and computer science at UC Berkeley.</p>
+
 	<span>Jade Benjamin-Chung,<sup>1</sup> Sean Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Anmole Seth,<sup>1</sup> Yoshika Crider,<sup>1</sup>, Andrew Mertens,<sup>1</sup> Michelle Hsiang,<sup>2,3,4</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Alan Hubbard <sup> 1</sup>
 	</span>
 
