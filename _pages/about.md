@@ -71,7 +71,7 @@ The COVID Tracking Project assigned grades to each state based on four criteria:
 <div class="sticky-top sticky-top-80">
 <h5>Contact us</h5>
 
-<p>For more information, please contact me at jadebc at berkeley dot edu.</p>
+<p>For more information, contact jadebc at berkeley dot edu</p>
 
 <!-- <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p> -->
 
