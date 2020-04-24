@@ -14,7 +14,7 @@ comments: false
 
 <br>
 
-<h4>Data Source</h4>
+<h4>Data</h4>
 
 Data was collected by the COVID Tracking Project (<a href="https://covidtracking.com/">https://covidtracking.com/</a>), which assembles data on a regular basis primarily from state, district, and territory public health departments. 
 <br><br>
