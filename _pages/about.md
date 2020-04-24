@@ -14,28 +14,9 @@ comments: false
 
 <br>
 
-<h4>Data Sources</h4>
+<h4>Data Source</h4>
 
-<ul>
-	<li>CovidTracking: <a href="https://covidtracking.com/">https://covidtracking.com/</a></li>
-	<li>Johns Hopkins CSSE: <a href="https://github.com/CSSEGISandData/COVID-19">https://github.com/CSSEGISandData/COVID-19</a></li>
-	<li>CDC.gov:
-		<ul>
-			<li>Total USA cumulative number of tests: <a href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html">https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html</a></li>
-			<li>Total USA cases: <a href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html">https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html</a></li>
-		</ul>
-	</li>
-	<li>New York Times: 
-		<ul>
-			<li>State Responses: <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html">https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html</a></li>
-		</ul>
-		</li>
-</ul>
-
-
-<p>Please, see the full data source list <a href="https://github.com/jadebc/covid19-expected-cases/tree/master/1-data">here</a>.</p>
-<br>
-
+Data was collected by the COVID Tracking Project (<a href="https://covidtracking.com/">https://covidtracking.com/</a>), which assembles data on a regular basis primarily from state, district, and territory public health departments. 
 
 
 <h4>Authors</h4>
