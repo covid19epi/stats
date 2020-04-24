@@ -1,7 +1,7 @@
 # Site
 name: "Burden of COVID-19 infection in the United States"
 title: "COVID-19"
-description: "Estimating the total burden of infection correcting for bias due to incomplete testing and imperfect test performance"
+description: "Estimating the total burden of infection correcting for bias due to incomplete testing and imperfect diagnostic accuracy"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/stats'
