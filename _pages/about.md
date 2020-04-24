@@ -27,7 +27,16 @@ The COVID Tracking Project assigned grades to each state based on four criteria:
 |C | Washington |
 
 
-
+<table>
+<tr>
+<td>Eggs</td>
+<td>Ham</td>
+</tr>
+<tr>
+<td>Basil</td>
+<td>Tomato</td>
+</tr>
+</table>
 
 <h4>Authors</h4>
 
