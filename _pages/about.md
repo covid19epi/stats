@@ -19,11 +19,13 @@ comments: false
 Data was collected by the COVID Tracking Project (<a href="https://covidtracking.com/">https://covidtracking.com/</a>), which assembles data on a regular basis primarily from state, district, and territory public health departments. 
 <br><br>
 The COVID Tracking Project assigned grades to each state based on four criteria: 1) reporting positives reliably, 2) Reporting negatives sometimes, 3) reporting negatives reliably, and 4) reporting all commercial tests. States meeting all four criteria received an “A” grade, those meeting three criteria received a “B” grade, and those meeting two criteria received a “C” grade. At the time of this study, states were graded as follows: 
-
+<br>
 <br>
 <ul>
   <li><b>Grade A:</b> Alaska, Arkansas, Colorado, Connecticut, District of Columbia, Delaware, Florida, Georgia, Hawaii, Iowa, Idaho, Illinois, Kentucky, Louisiana, Maryland, Maine, Minnesota, Missouri, Mississippi, Montana, North Carolina, Nebraska, New Jersey, New Mexico, Nevada, New York, Oregon, Pennsylvania, South Dakota, Tennessee, Texas, Utah, Virginia, Vermont, Wisconsin, Wyoming</li>
+  <br>
   <li><b>Grade B:</b> Alabama, Arizona, California, Indiana, Kansas, Massachusetts, Michigan, North Dakota, New Hampshire, Ohio, Oklahoma, Rhode Island, South Carolina, West Virginia</li>
+  <br>
   <li><b>Grade C:</b> Washington</li>
 </ul>
 
