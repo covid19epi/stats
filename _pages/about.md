@@ -43,16 +43,18 @@ comments: false
 
 <p>We are an interdisciplinary team with expertise in epidemiology, biostatistics, data science, and computer science at UC Berkeley.</p>
 
-	<span>Jade Benjamin-Chung,<sup>1</sup> Sean Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan N. Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Anmol Seth,<sup>1</sup> Yoshika Crider,<sup>1</sup>, Andrew Mertens,<sup>1</sup> Michelle Hsiang,<sup>2,3,4</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Alan Hubbard <sup> 1</sup>
+	<span></sup> Sean L. Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan N. Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Anmol Seth,<sup>1</sup> Yoshika Crider,<sup>1,2</sup>, Andrew Mertens,<sup>1</sup> Michelle Hsiang,<sup>3,4,5</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Benjamin F. Arnold,<sup>6</sup> Alan Hubbard<sup> 1</sup>, Jade Benjamin-Chung<sup>1
 	</span>
 
 
 	<p style="font-size: 0.75rem; color: rgba(0, 0, 0, .44)">
 		<br>
-		<sup>1</sup> Division of Epidemiology & Biostatistics, University of California Berkeley <br>
-		<sup>2</sup> Department of Pediatrics, University of Texas Southwestern Medical Center <br>
-		<sup>3</sup> Malaria Elimination Initiative, Global Health Group, University of California San Francisco <br>
-		<sup>4</sup> Department of Pediatrics, University of California San Francisco
+		<sup>1</sup> Division of Epidemiology & Biostatistics, University of California, Berkeley <br>
+		<sup>2</sup> Energy & Resources Group, University of California, Berkeley <br>
+		<sup>3</sup> Department of Pediatrics, University of Texas Southwestern Medical Center <br>
+		<sup>4</sup> Malaria Elimination Initiative, Global Health Group, University of California, San Francisco <br>
+		<sup>5</sup> Department of Pediatrics, University of California, San Francisco <br>
+		<sup>6</sup> Francis I. Proctor Foundation, University of California, San Francisco
 	</p>
 
  
