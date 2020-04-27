@@ -39,7 +39,7 @@ The COVID Tracking Project assigned grades to each state based on four criteria:
 
 <p>We are an interdisciplinary team with expertise in epidemiology, biostatistics, data science, and computer science at UC Berkeley.</p>
 
-	<span>Sean L. Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan N. Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Anmol Seth,<sup>1</sup> Yoshika Crider,<sup>1,2</sup>, Andrew Mertens,<sup>1</sup> Michelle Hsiang,<sup>3,4,5</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Benjamin F. Arnold,<sup>6, 7</sup> Alan Hubbard<sup> 1</sup>, Jade Benjamin-Chung<sup>1</sup>
+	<span>Sean L. Wu,<sup>1</sup> Anna Nguyen,<sup>1</sup> Nolan N. Pokpongkiat,<sup>1</sup> Stephanie Djajadi,<sup>1</sup> Anmol Seth,<sup>1</sup> Yoshika S. Crider,<sup>1,2</sup>, Andrew Mertens,<sup>1</sup> Michelle Hsiang,<sup>3,4,5</sup> John M. Colford Jr.,<sup>1</sup> Art Reingold,<sup>1</sup> Benjamin F. Arnold,<sup>6, 7</sup> Alan Hubbard<sup> 1</sup>, Jade Benjamin-Chung<sup>1</sup>
 	</span>
 
 
