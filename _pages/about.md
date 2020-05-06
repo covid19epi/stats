@@ -79,8 +79,7 @@ The COVID Tracking Project assigned grades to each state based on four criteria:
 <h5>Citing this work</h5>
 
 <p>Please credit this project by citing the publication, found here.</p>
-<a target="_blank" href="https://github.com/jadebc/covid19-expected-cases" class="btn btn-warning">View our code on Github</a>
-<p style="font-size: 0.75rem; color: rgba(0, 0, 0, .44); font-style: italic; margin-top: 6px;">This button will start working once our code is stable.</p>
+<a target="_blank" href="https://github.com/jadebc/covid19-infections/" class="btn btn-warning">View our code on Github</a>
 
 <br>
 
