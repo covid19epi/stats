@@ -78,9 +78,11 @@ The COVID Tracking Project assigned grades to each state based on four criteria:
 <br>
 <h5>Citing this work</h5>
 
-<p>Please credit this project by citing the publication, found here.</p>
+<p>Please credit this project by citing the publication, found <a href="https://www.medrxiv.org/content/10.1101/2020.05.12.20091744v1">here</a>.</p>
 <a target="_blank" href="https://github.com/jadebc/covid19-infections/" class="btn btn-warning">View our code on Github</a>
 
+<br>
+<br>
 <br>
 
 <h5>Funded by</h5>
